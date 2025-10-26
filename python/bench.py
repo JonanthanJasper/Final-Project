@@ -112,4 +112,5 @@ async def main():
     print(f"Average Disk Latency: {np.mean(disk_results.disk_latency):.4f} seconds")
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    for i in range(100):
+        asyncio.run(main())
