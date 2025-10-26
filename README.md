@@ -1,4 +1,4 @@
 # Final-Project
 TODO:
-    * Clean Python
-    * Start C
+    * Clean up both scripts
+    * Add bash script that will run both
